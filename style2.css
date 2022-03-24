@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #d6cbd3; font-family:'helvetica', Lato, arial, sans-serif; font-size: 16px; color: #82b74b;}
+html, body {background: #d6cbd3; font-family: 'arial', Lato, helvetica, sans-serif; font-size: 16px; color: #82b74b;}
 
 .clear {clear: both;}
 
@@ -123,7 +123,7 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica', Rokkitt, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
 	color: #6FFFE9;
@@ -134,13 +134,13 @@ section:last-child {
 }
 
 .sectionContent h2 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica', Rokkitt, Arial, sans-serif;
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
 
 .sectionContent h3 {
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Helvetica', Rokkitt, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.1em;
 	margin-bottom: -2px;
